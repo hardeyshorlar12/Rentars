@@ -1,9 +1,7 @@
 node_modules
 .next
 dist
-.env
 .env*.local
-.env.production
 *.lock
 target
 coverage
@@ -29,3 +27,7 @@ __snapshots__
 snapshots
 coverage
 .nyc_output
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
